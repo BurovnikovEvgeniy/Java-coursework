@@ -1,0 +1,4101 @@
+[ {
+  "shipName" : "fUUMGSWKAZgAPhW",
+  "tonnage" : 1100,
+  "arrivalTime" : {
+    "time" : 1223
+  },
+  "unloadTime" : {
+    "time" : 5500
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "nTeUUWBVRhQHZSK",
+  "tonnage" : 928,
+  "arrivalTime" : {
+    "time" : 1327
+  },
+  "unloadTime" : {
+    "time" : 4640
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "^]VAGLQXFemLNFb",
+  "tonnage" : 1080,
+  "arrivalTime" : {
+    "time" : 1983
+  },
+  "unloadTime" : {
+    "time" : 5400
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "EgNpXWRKXF\\ZJWM",
+  "tonnage" : 1089,
+  "arrivalTime" : {
+    "time" : 2226
+  },
+  "unloadTime" : {
+    "time" : 5445
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "SAIrfDlXXKiCZGb",
+  "tonnage" : 1153,
+  "arrivalTime" : {
+    "time" : 2532
+  },
+  "unloadTime" : {
+    "time" : 5765
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "kZjJZTBb[aZCTIH",
+  "tonnage" : 980,
+  "arrivalTime" : {
+    "time" : 3063
+  },
+  "unloadTime" : {
+    "time" : 4900
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "KEZB`J`ITIYBP`D",
+  "tonnage" : 1145,
+  "arrivalTime" : {
+    "time" : 3413
+  },
+  "unloadTime" : {
+    "time" : 5725
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "ELlHDYK_ZYdB^cS",
+  "tonnage" : 1199,
+  "arrivalTime" : {
+    "time" : 3597
+  },
+  "unloadTime" : {
+    "time" : 5995
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "\\ATDYGWqhXbIAmk",
+  "tonnage" : 1142,
+  "arrivalTime" : {
+    "time" : 4532
+  },
+  "unloadTime" : {
+    "time" : 5710
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "RDtNYCWV]YRTaI`",
+  "tonnage" : 1060,
+  "arrivalTime" : {
+    "time" : 4557
+  },
+  "unloadTime" : {
+    "time" : 5300
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "EePjSZc[`KDhbSI",
+  "tonnage" : 1101,
+  "arrivalTime" : {
+    "time" : 5261
+  },
+  "unloadTime" : {
+    "time" : 5505
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "BdEctPIjNXtZeUB",
+  "tonnage" : 1165,
+  "arrivalTime" : {
+    "time" : 5282
+  },
+  "unloadTime" : {
+    "time" : 5825
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "L`USaVKNfOQY^Ym",
+  "tonnage" : 1131,
+  "arrivalTime" : {
+    "time" : 5283
+  },
+  "unloadTime" : {
+    "time" : 5655
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "f_SYrPKZRM`IYDa",
+  "tonnage" : 907,
+  "arrivalTime" : {
+    "time" : 5332
+  },
+  "unloadTime" : {
+    "time" : 4535
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "dPTvXNYUU]TJZWN",
+  "tonnage" : 1167,
+  "arrivalTime" : {
+    "time" : 5335
+  },
+  "unloadTime" : {
+    "time" : 5835
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "WTRFZYR]PMMUNFS",
+  "tonnage" : 1182,
+  "arrivalTime" : {
+    "time" : 5420
+  },
+  "unloadTime" : {
+    "time" : 5910
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "Hh^QhXiMLJSahCW",
+  "tonnage" : 977,
+  "arrivalTime" : {
+    "time" : 5701
+  },
+  "unloadTime" : {
+    "time" : 4885
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "^NLYMkloKbkCMXG",
+  "tonnage" : 1159,
+  "arrivalTime" : {
+    "time" : 5729
+  },
+  "unloadTime" : {
+    "time" : 5795
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "VZcu[gBYiMfBRFW",
+  "tonnage" : 1189,
+  "arrivalTime" : {
+    "time" : 5731
+  },
+  "unloadTime" : {
+    "time" : 5945
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "eGQNGLLNN[TSeLM",
+  "tonnage" : 1172,
+  "arrivalTime" : {
+    "time" : 5735
+  },
+  "unloadTime" : {
+    "time" : 5860
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "PiP]GsamdXVef`f",
+  "tonnage" : 1008,
+  "arrivalTime" : {
+    "time" : 5898
+  },
+  "unloadTime" : {
+    "time" : 5040
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "iWYgSaUZSypGhyc",
+  "tonnage" : 1110,
+  "arrivalTime" : {
+    "time" : 6082
+  },
+  "unloadTime" : {
+    "time" : 5550
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "[Y_QYmq\\WACeDQm",
+  "tonnage" : 957,
+  "arrivalTime" : {
+    "time" : 6571
+  },
+  "unloadTime" : {
+    "time" : 4785
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "CjVHXUiiOtPIbSQ",
+  "tonnage" : 944,
+  "arrivalTime" : {
+    "time" : 6936
+  },
+  "unloadTime" : {
+    "time" : 4720
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "`_IAeMGnZSFTQpQ",
+  "tonnage" : 1019,
+  "arrivalTime" : {
+    "time" : 7128
+  },
+  "unloadTime" : {
+    "time" : 5095
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "cO_E]WHhSg`GaXk",
+  "tonnage" : 1141,
+  "arrivalTime" : {
+    "time" : 7712
+  },
+  "unloadTime" : {
+    "time" : 5705
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "VyrOlX]mENOLDPI",
+  "tonnage" : 1154,
+  "arrivalTime" : {
+    "time" : 8133
+  },
+  "unloadTime" : {
+    "time" : 5770
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "aBMCNXebVEKWWW\\",
+  "tonnage" : 936,
+  "arrivalTime" : {
+    "time" : 8157
+  },
+  "unloadTime" : {
+    "time" : 4680
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "UQVmV\\VYYZDCnbe",
+  "tonnage" : 1065,
+  "arrivalTime" : {
+    "time" : 8175
+  },
+  "unloadTime" : {
+    "time" : 5325
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "PlP^gIM\\KSEidTZ",
+  "tonnage" : 1090,
+  "arrivalTime" : {
+    "time" : 9093
+  },
+  "unloadTime" : {
+    "time" : 5450
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "TUYZRXSVrIUzPHG",
+  "tonnage" : 1159,
+  "arrivalTime" : {
+    "time" : 9114
+  },
+  "unloadTime" : {
+    "time" : 5795
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "c[NiIaVgh`VIVPP",
+  "tonnage" : 957,
+  "arrivalTime" : {
+    "time" : 9341
+  },
+  "unloadTime" : {
+    "time" : 4785
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "iT]oCSTYX\\HaLbQ",
+  "tonnage" : 1088,
+  "arrivalTime" : {
+    "time" : 9371
+  },
+  "unloadTime" : {
+    "time" : 5440
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "`OhaDnSPTWZPGci",
+  "tonnage" : 941,
+  "arrivalTime" : {
+    "time" : 9551
+  },
+  "unloadTime" : {
+    "time" : 4705
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "OOaWZGjeX_aXHaQ",
+  "tonnage" : 1088,
+  "arrivalTime" : {
+    "time" : 9559
+  },
+  "unloadTime" : {
+    "time" : 5440
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "yHcfMIWR`TJJGXx",
+  "tonnage" : 1131,
+  "arrivalTime" : {
+    "time" : 9716
+  },
+  "unloadTime" : {
+    "time" : 5655
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "BYYaeVMTDAcJSW^",
+  "tonnage" : 1070,
+  "arrivalTime" : {
+    "time" : 9903
+  },
+  "unloadTime" : {
+    "time" : 5350
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "[fSQYhHYi\\aSYcH",
+  "tonnage" : 1149,
+  "arrivalTime" : {
+    "time" : 9989
+  },
+  "unloadTime" : {
+    "time" : 5745
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "`_bV[A`NIMJ`NfJ",
+  "tonnage" : 1030,
+  "arrivalTime" : {
+    "time" : 10092
+  },
+  "unloadTime" : {
+    "time" : 5150
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "ZAAYVQYLaHcLcGQ",
+  "tonnage" : 1198,
+  "arrivalTime" : {
+    "time" : 10178
+  },
+  "unloadTime" : {
+    "time" : 5990
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "XXLYojZeEbBCScQ",
+  "tonnage" : 978,
+  "arrivalTime" : {
+    "time" : 10513
+  },
+  "unloadTime" : {
+    "time" : 4890
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "WCDXDeKOSsgNTWQ",
+  "tonnage" : 958,
+  "arrivalTime" : {
+    "time" : 10624
+  },
+  "unloadTime" : {
+    "time" : 4790
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "_IZFX^HHNZAUcMK",
+  "tonnage" : 962,
+  "arrivalTime" : {
+    "time" : 10667
+  },
+  "unloadTime" : {
+    "time" : 4810
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "LfQijWM^\\PRoRgm",
+  "tonnage" : 1002,
+  "arrivalTime" : {
+    "time" : 10765
+  },
+  "unloadTime" : {
+    "time" : 5010
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "VNTSqPWVmgYBNfj",
+  "tonnage" : 979,
+  "arrivalTime" : {
+    "time" : 10799
+  },
+  "unloadTime" : {
+    "time" : 4895
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "fFYGR^uaE`LFV_L",
+  "tonnage" : 918,
+  "arrivalTime" : {
+    "time" : 10934
+  },
+  "unloadTime" : {
+    "time" : 4590
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "acCbZTfkMYJvSVb",
+  "tonnage" : 1138,
+  "arrivalTime" : {
+    "time" : 11020
+  },
+  "unloadTime" : {
+    "time" : 5690
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "pbQNsXYWLDtRCqJ",
+  "tonnage" : 1133,
+  "arrivalTime" : {
+    "time" : 11027
+  },
+  "unloadTime" : {
+    "time" : 5665
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "bUP_bXMRYZDRQSY",
+  "tonnage" : 987,
+  "arrivalTime" : {
+    "time" : 11193
+  },
+  "unloadTime" : {
+    "time" : 4935
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "QEW[X\\`_bDXVadY",
+  "tonnage" : 933,
+  "arrivalTime" : {
+    "time" : 11263
+  },
+  "unloadTime" : {
+    "time" : 4665
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "gEReZ\\M\\GPUfIdC",
+  "tonnage" : 924,
+  "arrivalTime" : {
+    "time" : 11413
+  },
+  "unloadTime" : {
+    "time" : 4620
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "mZZnoHNHYJY`qNR",
+  "tonnage" : 1153,
+  "arrivalTime" : {
+    "time" : 11525
+  },
+  "unloadTime" : {
+    "time" : 5765
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "Uc^\\WpjFWHNrCjL",
+  "tonnage" : 1058,
+  "arrivalTime" : {
+    "time" : 11578
+  },
+  "unloadTime" : {
+    "time" : 5290
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "EMWQ`TFYibDOWLS",
+  "tonnage" : 927,
+  "arrivalTime" : {
+    "time" : 11854
+  },
+  "unloadTime" : {
+    "time" : 4635
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "AMidQfTUENcZNL_",
+  "tonnage" : 905,
+  "arrivalTime" : {
+    "time" : 11961
+  },
+  "unloadTime" : {
+    "time" : 4525
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "XVOoYXhD^lB_Aae",
+  "tonnage" : 996,
+  "arrivalTime" : {
+    "time" : 11976
+  },
+  "unloadTime" : {
+    "time" : 4980
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "aTWbcbOmv^MMZAD",
+  "tonnage" : 1159,
+  "arrivalTime" : {
+    "time" : 12102
+  },
+  "unloadTime" : {
+    "time" : 5795
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "ACFVRRCw_aPX]FK",
+  "tonnage" : 1024,
+  "arrivalTime" : {
+    "time" : 12244
+  },
+  "unloadTime" : {
+    "time" : 5120
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "FUWTeFYMIOVGIma",
+  "tonnage" : 1014,
+  "arrivalTime" : {
+    "time" : 12297
+  },
+  "unloadTime" : {
+    "time" : 5070
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "WMHNbbDUcZYPccH",
+  "tonnage" : 912,
+  "arrivalTime" : {
+    "time" : 12318
+  },
+  "unloadTime" : {
+    "time" : 4560
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "\\SQZie^OLaCSlVj",
+  "tonnage" : 1067,
+  "arrivalTime" : {
+    "time" : 12352
+  },
+  "unloadTime" : {
+    "time" : 5335
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "UDZNdERTKLgNcVS",
+  "tonnage" : 1016,
+  "arrivalTime" : {
+    "time" : 12359
+  },
+  "unloadTime" : {
+    "time" : 5080
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "QZTBCUVWBL[KcZM",
+  "tonnage" : 1159,
+  "arrivalTime" : {
+    "time" : 12571
+  },
+  "unloadTime" : {
+    "time" : 5795
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "LXIPYnch]DOG\\hR",
+  "tonnage" : 1059,
+  "arrivalTime" : {
+    "time" : 12684
+  },
+  "unloadTime" : {
+    "time" : 5295
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "B_zAFOEAKPQOTVV",
+  "tonnage" : 941,
+  "arrivalTime" : {
+    "time" : 12769
+  },
+  "unloadTime" : {
+    "time" : 4705
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "GTWOJUJAosCJbRu",
+  "tonnage" : 1188,
+  "arrivalTime" : {
+    "time" : 12777
+  },
+  "unloadTime" : {
+    "time" : 5940
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "xZIiEAdAfX`ThSE",
+  "tonnage" : 991,
+  "arrivalTime" : {
+    "time" : 12810
+  },
+  "unloadTime" : {
+    "time" : 4955
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "ZdAaLAOF\\YLTUaQ",
+  "tonnage" : 1061,
+  "arrivalTime" : {
+    "time" : 12884
+  },
+  "unloadTime" : {
+    "time" : 5305
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "cQYHdWPgtVVNWb[",
+  "tonnage" : 1106,
+  "arrivalTime" : {
+    "time" : 13050
+  },
+  "unloadTime" : {
+    "time" : 5530
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "fNQBkWDQMNgiRgO",
+  "tonnage" : 914,
+  "arrivalTime" : {
+    "time" : 13062
+  },
+  "unloadTime" : {
+    "time" : 4570
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "HCcXVQFbQOSTgZP",
+  "tonnage" : 1002,
+  "arrivalTime" : {
+    "time" : 13160
+  },
+  "unloadTime" : {
+    "time" : 5010
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "XEMhPQI]JbYSYQB",
+  "tonnage" : 938,
+  "arrivalTime" : {
+    "time" : 13310
+  },
+  "unloadTime" : {
+    "time" : 4690
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "ARflRTCeRWW_LSQ",
+  "tonnage" : 1060,
+  "arrivalTime" : {
+    "time" : 13329
+  },
+  "unloadTime" : {
+    "time" : 5300
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "OKgUgTFPBSKUZAb",
+  "tonnage" : 1138,
+  "arrivalTime" : {
+    "time" : 13334
+  },
+  "unloadTime" : {
+    "time" : 5690
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "WSVxMRQIQkDgJJM",
+  "tonnage" : 1160,
+  "arrivalTime" : {
+    "time" : 13425
+  },
+  "unloadTime" : {
+    "time" : 5800
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "n`ZLJrZEYXJNX_[",
+  "tonnage" : 1178,
+  "arrivalTime" : {
+    "time" : 13440
+  },
+  "unloadTime" : {
+    "time" : 5890
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "EDLcNS^NaSZWVuH",
+  "tonnage" : 927,
+  "arrivalTime" : {
+    "time" : 13468
+  },
+  "unloadTime" : {
+    "time" : 4635
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "SIOPaUaTdaYhQOV",
+  "tonnage" : 1057,
+  "arrivalTime" : {
+    "time" : 13859
+  },
+  "unloadTime" : {
+    "time" : 5285
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "^AWXWD`qP]QOUoX",
+  "tonnage" : 1100,
+  "arrivalTime" : {
+    "time" : 13904
+  },
+  "unloadTime" : {
+    "time" : 5500
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "oQtLrOWgydpxXUK",
+  "tonnage" : 908,
+  "arrivalTime" : {
+    "time" : 13972
+  },
+  "unloadTime" : {
+    "time" : 4540
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "\\Qg\\FYiSPYDjTU[",
+  "tonnage" : 1007,
+  "arrivalTime" : {
+    "time" : 14263
+  },
+  "unloadTime" : {
+    "time" : 5035
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "if]gYXZPuORFbHa",
+  "tonnage" : 1040,
+  "arrivalTime" : {
+    "time" : 14312
+  },
+  "unloadTime" : {
+    "time" : 5200
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "RAYmNYKHSLZHgEa",
+  "tonnage" : 1127,
+  "arrivalTime" : {
+    "time" : 14436
+  },
+  "unloadTime" : {
+    "time" : 5635
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "NIW_UXVWUS[`V_Z",
+  "tonnage" : 929,
+  "arrivalTime" : {
+    "time" : 14472
+  },
+  "unloadTime" : {
+    "time" : 4645
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "ZZH\\AYRQswwO]Wq",
+  "tonnage" : 987,
+  "arrivalTime" : {
+    "time" : 14657
+  },
+  "unloadTime" : {
+    "time" : 4935
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "NfeITTRFSAM]S^f",
+  "tonnage" : 1145,
+  "arrivalTime" : {
+    "time" : 14730
+  },
+  "unloadTime" : {
+    "time" : 5725
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "pBYMWcmebRY_FcW",
+  "tonnage" : 1017,
+  "arrivalTime" : {
+    "time" : 14826
+  },
+  "unloadTime" : {
+    "time" : 5085
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "FLMXUPq^HT]RGKN",
+  "tonnage" : 1044,
+  "arrivalTime" : {
+    "time" : 14879
+  },
+  "unloadTime" : {
+    "time" : 5220
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "ZBcdVfXAW^XD[HE",
+  "tonnage" : 947,
+  "arrivalTime" : {
+    "time" : 15164
+  },
+  "unloadTime" : {
+    "time" : 4735
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "[Wh\\bah[DYGQRUo",
+  "tonnage" : 1113,
+  "arrivalTime" : {
+    "time" : 15169
+  },
+  "unloadTime" : {
+    "time" : 5565
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "STYXQpmDSUkYWNY",
+  "tonnage" : 1041,
+  "arrivalTime" : {
+    "time" : 15264
+  },
+  "unloadTime" : {
+    "time" : 5205
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "BOrVIUBUQSLv_Ci",
+  "tonnage" : 939,
+  "arrivalTime" : {
+    "time" : 15504
+  },
+  "unloadTime" : {
+    "time" : 4695
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "^ZeMRQZXMRHZoMY",
+  "tonnage" : 995,
+  "arrivalTime" : {
+    "time" : 15545
+  },
+  "unloadTime" : {
+    "time" : 4975
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "OaZh_kHhWI`PbTe",
+  "tonnage" : 1140,
+  "arrivalTime" : {
+    "time" : 15583
+  },
+  "unloadTime" : {
+    "time" : 5700
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "_aiDO\\mS^XZA^UN",
+  "tonnage" : 1098,
+  "arrivalTime" : {
+    "time" : 15641
+  },
+  "unloadTime" : {
+    "time" : 5490
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "PeL\\t`OZYaKVwXV",
+  "tonnage" : 1091,
+  "arrivalTime" : {
+    "time" : 15884
+  },
+  "unloadTime" : {
+    "time" : 5455
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "eVVLAVEFsXNeRgH",
+  "tonnage" : 1091,
+  "arrivalTime" : {
+    "time" : 15892
+  },
+  "unloadTime" : {
+    "time" : 5455
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "cMH^SedV[DKQacK",
+  "tonnage" : 981,
+  "arrivalTime" : {
+    "time" : 16126
+  },
+  "unloadTime" : {
+    "time" : 4905
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "DUePF^eKF[mjJK]",
+  "tonnage" : 1185,
+  "arrivalTime" : {
+    "time" : 16144
+  },
+  "unloadTime" : {
+    "time" : 5925
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "UHndKfDHrEO\\KXb",
+  "tonnage" : 961,
+  "arrivalTime" : {
+    "time" : 16362
+  },
+  "unloadTime" : {
+    "time" : 4805
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "XZQJQ\\l_UfZMZFZ",
+  "tonnage" : 1058,
+  "arrivalTime" : {
+    "time" : 16396
+  },
+  "unloadTime" : {
+    "time" : 5290
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "XgYARi`SZ_UaUGa",
+  "tonnage" : 1116,
+  "arrivalTime" : {
+    "time" : 16475
+  },
+  "unloadTime" : {
+    "time" : 5580
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "WaO[FFWfcLYZdE[",
+  "tonnage" : 928,
+  "arrivalTime" : {
+    "time" : 16571
+  },
+  "unloadTime" : {
+    "time" : 4640
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "YRECZ_eFWBNabB]",
+  "tonnage" : 927,
+  "arrivalTime" : {
+    "time" : 16687
+  },
+  "unloadTime" : {
+    "time" : 4635
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "PH]TaTUPaWVEIQW",
+  "tonnage" : 901,
+  "arrivalTime" : {
+    "time" : 16720
+  },
+  "unloadTime" : {
+    "time" : 4505
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "VVWShQ]BQMDobZR",
+  "tonnage" : 1166,
+  "arrivalTime" : {
+    "time" : 16732
+  },
+  "unloadTime" : {
+    "time" : 5830
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "u]ZLfjZZQlXmX\\H",
+  "tonnage" : 1016,
+  "arrivalTime" : {
+    "time" : 16757
+  },
+  "unloadTime" : {
+    "time" : 5080
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "VPhMeRFOQQhBsCb",
+  "tonnage" : 991,
+  "arrivalTime" : {
+    "time" : 17080
+  },
+  "unloadTime" : {
+    "time" : 4955
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "CjhTZOAZVVFAFNS",
+  "tonnage" : 1157,
+  "arrivalTime" : {
+    "time" : 17093
+  },
+  "unloadTime" : {
+    "time" : 5785
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "[XoA_VTSBUZVTPo",
+  "tonnage" : 968,
+  "arrivalTime" : {
+    "time" : 17178
+  },
+  "unloadTime" : {
+    "time" : 4840
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "ieQXWmUGYUeddH\\",
+  "tonnage" : 1044,
+  "arrivalTime" : {
+    "time" : 17204
+  },
+  "unloadTime" : {
+    "time" : 5220
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "VO[XUTbLUXXH]\\j",
+  "tonnage" : 1107,
+  "arrivalTime" : {
+    "time" : 17291
+  },
+  "unloadTime" : {
+    "time" : 5535
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "INNnYQ[SVQWXTpG",
+  "tonnage" : 976,
+  "arrivalTime" : {
+    "time" : 17323
+  },
+  "unloadTime" : {
+    "time" : 4880
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "CU_VUZZfH^`ETYi",
+  "tonnage" : 1112,
+  "arrivalTime" : {
+    "time" : 17455
+  },
+  "unloadTime" : {
+    "time" : 5560
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "YKUZYLVYVOIjRM[",
+  "tonnage" : 1086,
+  "arrivalTime" : {
+    "time" : 17456
+  },
+  "unloadTime" : {
+    "time" : 5430
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "]HXZT[SPTrFfVUG",
+  "tonnage" : 1038,
+  "arrivalTime" : {
+    "time" : 17531
+  },
+  "unloadTime" : {
+    "time" : 5190
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "K_cUKbj`HZTpsgx",
+  "tonnage" : 1112,
+  "arrivalTime" : {
+    "time" : 17763
+  },
+  "unloadTime" : {
+    "time" : 5560
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "fKhLTaL\\lWb]LWJ",
+  "tonnage" : 1116,
+  "arrivalTime" : {
+    "time" : 17783
+  },
+  "unloadTime" : {
+    "time" : 5580
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "WlTGvIgZFLXEgbk",
+  "tonnage" : 1122,
+  "arrivalTime" : {
+    "time" : 18041
+  },
+  "unloadTime" : {
+    "time" : 5610
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "qEYQZaQmYoiUdBk",
+  "tonnage" : 907,
+  "arrivalTime" : {
+    "time" : 18142
+  },
+  "unloadTime" : {
+    "time" : 4535
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "TjNXAJfEoOIUkLF",
+  "tonnage" : 1047,
+  "arrivalTime" : {
+    "time" : 18184
+  },
+  "unloadTime" : {
+    "time" : 5235
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "guUUKXLhMVHcjWY",
+  "tonnage" : 1121,
+  "arrivalTime" : {
+    "time" : 18205
+  },
+  "unloadTime" : {
+    "time" : 5605
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "EXUm]SkJNGjoYeS",
+  "tonnage" : 986,
+  "arrivalTime" : {
+    "time" : 18400
+  },
+  "unloadTime" : {
+    "time" : 4930
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "NaAWUWQDMSZYO_g",
+  "tonnage" : 1031,
+  "arrivalTime" : {
+    "time" : 18480
+  },
+  "unloadTime" : {
+    "time" : 5155
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "UcpRxO]VYgEPA[N",
+  "tonnage" : 971,
+  "arrivalTime" : {
+    "time" : 18587
+  },
+  "unloadTime" : {
+    "time" : 4855
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "jDIDL\\^]FShJ^LJ",
+  "tonnage" : 1100,
+  "arrivalTime" : {
+    "time" : 18654
+  },
+  "unloadTime" : {
+    "time" : 5500
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "hZHr^VUrQBOTk_D",
+  "tonnage" : 1098,
+  "arrivalTime" : {
+    "time" : 18671
+  },
+  "unloadTime" : {
+    "time" : 5490
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "gcRRtSmI\\DUVAAV",
+  "tonnage" : 1057,
+  "arrivalTime" : {
+    "time" : 18706
+  },
+  "unloadTime" : {
+    "time" : 5285
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "HJWYQCtyXBRWDIL",
+  "tonnage" : 1014,
+  "arrivalTime" : {
+    "time" : 18772
+  },
+  "unloadTime" : {
+    "time" : 5070
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "p\\AVPPKnSQd`[EK",
+  "tonnage" : 1082,
+  "arrivalTime" : {
+    "time" : 18798
+  },
+  "unloadTime" : {
+    "time" : 5410
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "TMMCCXBTqsT]RPK",
+  "tonnage" : 1074,
+  "arrivalTime" : {
+    "time" : 18800
+  },
+  "unloadTime" : {
+    "time" : 5370
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "ODRMWFl`UhCFhYi",
+  "tonnage" : 1081,
+  "arrivalTime" : {
+    "time" : 18890
+  },
+  "unloadTime" : {
+    "time" : 5405
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "]Ol_XLc`MXfOSTQ",
+  "tonnage" : 921,
+  "arrivalTime" : {
+    "time" : 19172
+  },
+  "unloadTime" : {
+    "time" : 4605
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "`RIfTeIVEIPaLLL",
+  "tonnage" : 971,
+  "arrivalTime" : {
+    "time" : 19211
+  },
+  "unloadTime" : {
+    "time" : 4855
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "kCcNg_CPLPN]NO`",
+  "tonnage" : 917,
+  "arrivalTime" : {
+    "time" : 19213
+  },
+  "unloadTime" : {
+    "time" : 4585
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "D]ZWJn\\VLiUAXQL",
+  "tonnage" : 1086,
+  "arrivalTime" : {
+    "time" : 19460
+  },
+  "unloadTime" : {
+    "time" : 5430
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "H^WT`SZATwg_jUY",
+  "tonnage" : 1082,
+  "arrivalTime" : {
+    "time" : 19483
+  },
+  "unloadTime" : {
+    "time" : 5410
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "GhMLiAs_gFxH_fX",
+  "tonnage" : 1036,
+  "arrivalTime" : {
+    "time" : 19489
+  },
+  "unloadTime" : {
+    "time" : 5180
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "\\RBVNSnZYVvLTEb",
+  "tonnage" : 1125,
+  "arrivalTime" : {
+    "time" : 19508
+  },
+  "unloadTime" : {
+    "time" : 5625
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "VODcMVSZLSEPAGp",
+  "tonnage" : 1020,
+  "arrivalTime" : {
+    "time" : 19553
+  },
+  "unloadTime" : {
+    "time" : 5100
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "VKQjp\\fJneWXYPY",
+  "tonnage" : 1062,
+  "arrivalTime" : {
+    "time" : 19654
+  },
+  "unloadTime" : {
+    "time" : 5310
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "KTYAS[eM^bhYOGO",
+  "tonnage" : 999,
+  "arrivalTime" : {
+    "time" : 19678
+  },
+  "unloadTime" : {
+    "time" : 4995
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "mPbFDBWOpJaUbVS",
+  "tonnage" : 1035,
+  "arrivalTime" : {
+    "time" : 19715
+  },
+  "unloadTime" : {
+    "time" : 5175
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "fN[OXXUEZL[dDGt",
+  "tonnage" : 1116,
+  "arrivalTime" : {
+    "time" : 19764
+  },
+  "unloadTime" : {
+    "time" : 5580
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "iQXVeSE\\G_UXQMb",
+  "tonnage" : 921,
+  "arrivalTime" : {
+    "time" : 19794
+  },
+  "unloadTime" : {
+    "time" : 4605
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "d][JO^JMXU\\Epvd",
+  "tonnage" : 1006,
+  "arrivalTime" : {
+    "time" : 19834
+  },
+  "unloadTime" : {
+    "time" : 5030
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "KUPdXRKc]gHCJWh",
+  "tonnage" : 1067,
+  "arrivalTime" : {
+    "time" : 20181
+  },
+  "unloadTime" : {
+    "time" : 5335
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "uMWa`EIHRU]SVmX",
+  "tonnage" : 982,
+  "arrivalTime" : {
+    "time" : 20314
+  },
+  "unloadTime" : {
+    "time" : 4910
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "uVMKohbMiGnFBUV",
+  "tonnage" : 1156,
+  "arrivalTime" : {
+    "time" : 20366
+  },
+  "unloadTime" : {
+    "time" : 5780
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "ikKL\\jT^OkG]_`Z",
+  "tonnage" : 1007,
+  "arrivalTime" : {
+    "time" : 20385
+  },
+  "unloadTime" : {
+    "time" : 5035
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "ZPAbKZnJFC`rFWL",
+  "tonnage" : 1121,
+  "arrivalTime" : {
+    "time" : 20407
+  },
+  "unloadTime" : {
+    "time" : 5605
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "BLW`QKa^q_CdZZV",
+  "tonnage" : 947,
+  "arrivalTime" : {
+    "time" : 20581
+  },
+  "unloadTime" : {
+    "time" : 4735
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "ELTQVYBJcQTHSlL",
+  "tonnage" : 961,
+  "arrivalTime" : {
+    "time" : 20608
+  },
+  "unloadTime" : {
+    "time" : 4805
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "kAWd^tMTa_Xl[nC",
+  "tonnage" : 1052,
+  "arrivalTime" : {
+    "time" : 20616
+  },
+  "unloadTime" : {
+    "time" : 5260
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "[ZGW_WjGRjBDswH",
+  "tonnage" : 908,
+  "arrivalTime" : {
+    "time" : 20689
+  },
+  "unloadTime" : {
+    "time" : 4540
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "LioSDUGWahZYQd_",
+  "tonnage" : 1026,
+  "arrivalTime" : {
+    "time" : 21076
+  },
+  "unloadTime" : {
+    "time" : 5130
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "RAnVW^XiDAbJ^MU",
+  "tonnage" : 1198,
+  "arrivalTime" : {
+    "time" : 21111
+  },
+  "unloadTime" : {
+    "time" : 5990
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "AXZTt`LSEeRZUaR",
+  "tonnage" : 1069,
+  "arrivalTime" : {
+    "time" : 21134
+  },
+  "unloadTime" : {
+    "time" : 5345
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "l_ORZaWXfWdInbW",
+  "tonnage" : 1063,
+  "arrivalTime" : {
+    "time" : 21347
+  },
+  "unloadTime" : {
+    "time" : 5315
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "]RIKLSApJ^R[Wcc",
+  "tonnage" : 1147,
+  "arrivalTime" : {
+    "time" : 21431
+  },
+  "unloadTime" : {
+    "time" : 5735
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "MLDWeeiZQQCOIiV",
+  "tonnage" : 1051,
+  "arrivalTime" : {
+    "time" : 21566
+  },
+  "unloadTime" : {
+    "time" : 5255
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "Se^lJCsVYLZYRJX",
+  "tonnage" : 1078,
+  "arrivalTime" : {
+    "time" : 21575
+  },
+  "unloadTime" : {
+    "time" : 5390
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "GSbHJreYKgUNI[C",
+  "tonnage" : 1069,
+  "arrivalTime" : {
+    "time" : 21641
+  },
+  "unloadTime" : {
+    "time" : 5345
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "hX_TYqOlVTLXNiV",
+  "tonnage" : 939,
+  "arrivalTime" : {
+    "time" : 21750
+  },
+  "unloadTime" : {
+    "time" : 4695
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "BqWVNISXi[X^dWL",
+  "tonnage" : 1008,
+  "arrivalTime" : {
+    "time" : 21924
+  },
+  "unloadTime" : {
+    "time" : 5040
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "IehOcPOPQHJdWVX",
+  "tonnage" : 1001,
+  "arrivalTime" : {
+    "time" : 21958
+  },
+  "unloadTime" : {
+    "time" : 5005
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "TC^RZsIQGuZsYsH",
+  "tonnage" : 1102,
+  "arrivalTime" : {
+    "time" : 22002
+  },
+  "unloadTime" : {
+    "time" : 5510
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "MmA[goCJlFMJSYY",
+  "tonnage" : 931,
+  "arrivalTime" : {
+    "time" : 22112
+  },
+  "unloadTime" : {
+    "time" : 4655
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "UCFOTN]LVRkTcAv",
+  "tonnage" : 1037,
+  "arrivalTime" : {
+    "time" : 22197
+  },
+  "unloadTime" : {
+    "time" : 5185
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "HR\\TORfeNZzUFBT",
+  "tonnage" : 1006,
+  "arrivalTime" : {
+    "time" : 22202
+  },
+  "unloadTime" : {
+    "time" : 5030
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "VIGG]OeYYVxRRVd",
+  "tonnage" : 1196,
+  "arrivalTime" : {
+    "time" : 22301
+  },
+  "unloadTime" : {
+    "time" : 5980
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "dNWl`jxWZJRMIhR",
+  "tonnage" : 1005,
+  "arrivalTime" : {
+    "time" : 22304
+  },
+  "unloadTime" : {
+    "time" : 5025
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "VqSTbJOaJVVTKZA",
+  "tonnage" : 1079,
+  "arrivalTime" : {
+    "time" : 22329
+  },
+  "unloadTime" : {
+    "time" : 5395
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "F`DYGSAiqS\\OCvF",
+  "tonnage" : 1171,
+  "arrivalTime" : {
+    "time" : 22538
+  },
+  "unloadTime" : {
+    "time" : 5855
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "XpXYkC`ENY_ODPJ",
+  "tonnage" : 1089,
+  "arrivalTime" : {
+    "time" : 22636
+  },
+  "unloadTime" : {
+    "time" : 5445
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "LtMFsIdFQx\\QTot",
+  "tonnage" : 1164,
+  "arrivalTime" : {
+    "time" : 22655
+  },
+  "unloadTime" : {
+    "time" : 5820
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "ZFYnBI]J_XMhhRL",
+  "tonnage" : 902,
+  "arrivalTime" : {
+    "time" : 22741
+  },
+  "unloadTime" : {
+    "time" : 4510
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "PSJTYGBkVi]hKiD",
+  "tonnage" : 1179,
+  "arrivalTime" : {
+    "time" : 22749
+  },
+  "unloadTime" : {
+    "time" : 5895
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "c^BiW^XCEMTVX[T",
+  "tonnage" : 1105,
+  "arrivalTime" : {
+    "time" : 22968
+  },
+  "unloadTime" : {
+    "time" : 5525
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "[PSseHUfV_`INbV",
+  "tonnage" : 1065,
+  "arrivalTime" : {
+    "time" : 23265
+  },
+  "unloadTime" : {
+    "time" : 5325
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "_JTQE]awp`LL\\iY",
+  "tonnage" : 1154,
+  "arrivalTime" : {
+    "time" : 23385
+  },
+  "unloadTime" : {
+    "time" : 5770
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "\\tRndmcbKGJYZAS",
+  "tonnage" : 1027,
+  "arrivalTime" : {
+    "time" : 23580
+  },
+  "unloadTime" : {
+    "time" : 5135
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "WhiLiSKv\\HH]IPG",
+  "tonnage" : 1024,
+  "arrivalTime" : {
+    "time" : 23628
+  },
+  "unloadTime" : {
+    "time" : 5120
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "^rhVETJQAATKVD[",
+  "tonnage" : 1102,
+  "arrivalTime" : {
+    "time" : 23680
+  },
+  "unloadTime" : {
+    "time" : 5510
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "q_e[`LP\\_P`XUcp",
+  "tonnage" : 1011,
+  "arrivalTime" : {
+    "time" : 23695
+  },
+  "unloadTime" : {
+    "time" : 5055
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "rE_OFpNv[TSQeGd",
+  "tonnage" : 929,
+  "arrivalTime" : {
+    "time" : 23962
+  },
+  "unloadTime" : {
+    "time" : 4645
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "oTGbOKQPBXMUCTQ",
+  "tonnage" : 1138,
+  "arrivalTime" : {
+    "time" : 23989
+  },
+  "unloadTime" : {
+    "time" : 5690
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "tNCmUWVRSg]Ef\\S",
+  "tonnage" : 1011,
+  "arrivalTime" : {
+    "time" : 24051
+  },
+  "unloadTime" : {
+    "time" : 5055
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "DwZMJ[b]ZjRFLlT",
+  "tonnage" : 940,
+  "arrivalTime" : {
+    "time" : 24131
+  },
+  "unloadTime" : {
+    "time" : 4700
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "RpVPhNF[CYNTJQR",
+  "tonnage" : 906,
+  "arrivalTime" : {
+    "time" : 24316
+  },
+  "unloadTime" : {
+    "time" : 4530
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "cQEA]UeElYmYJbU",
+  "tonnage" : 1124,
+  "arrivalTime" : {
+    "time" : 24406
+  },
+  "unloadTime" : {
+    "time" : 5620
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "eR`YTRQBOXRVNOV",
+  "tonnage" : 1016,
+  "arrivalTime" : {
+    "time" : 24535
+  },
+  "unloadTime" : {
+    "time" : 5080
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "KMFiBRZsHEDEZcE",
+  "tonnage" : 1186,
+  "arrivalTime" : {
+    "time" : 24576
+  },
+  "unloadTime" : {
+    "time" : 5930
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "MYd\\mjUZfkEwsHv",
+  "tonnage" : 1196,
+  "arrivalTime" : {
+    "time" : 24577
+  },
+  "unloadTime" : {
+    "time" : 5980
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "YfRFTlLlNW[T]]K",
+  "tonnage" : 962,
+  "arrivalTime" : {
+    "time" : 24612
+  },
+  "unloadTime" : {
+    "time" : 4810
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "N\\ZeuXIERlSTY^N",
+  "tonnage" : 908,
+  "arrivalTime" : {
+    "time" : 24664
+  },
+  "unloadTime" : {
+    "time" : 4540
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "aYAXOwWDcADH`lD",
+  "tonnage" : 1039,
+  "arrivalTime" : {
+    "time" : 24666
+  },
+  "unloadTime" : {
+    "time" : 5195
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "VBp_S`PZEFPXrPo",
+  "tonnage" : 1148,
+  "arrivalTime" : {
+    "time" : 24721
+  },
+  "unloadTime" : {
+    "time" : 5740
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "iUUC^lZjskHVocd",
+  "tonnage" : 946,
+  "arrivalTime" : {
+    "time" : 24817
+  },
+  "unloadTime" : {
+    "time" : 4730
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "YhdlSIRfMNiHoH`",
+  "tonnage" : 930,
+  "arrivalTime" : {
+    "time" : 24846
+  },
+  "unloadTime" : {
+    "time" : 4650
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "BTaYIGYYIid\\zNY",
+  "tonnage" : 1041,
+  "arrivalTime" : {
+    "time" : 24915
+  },
+  "unloadTime" : {
+    "time" : 5205
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "NE_tZihRKaFQZ`g",
+  "tonnage" : 1056,
+  "arrivalTime" : {
+    "time" : 24920
+  },
+  "unloadTime" : {
+    "time" : 5280
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "FRPmTOLFVZRf`JK",
+  "tonnage" : 1030,
+  "arrivalTime" : {
+    "time" : 25165
+  },
+  "unloadTime" : {
+    "time" : 5150
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "^UbQGTCUTtEYaWP",
+  "tonnage" : 1075,
+  "arrivalTime" : {
+    "time" : 25492
+  },
+  "unloadTime" : {
+    "time" : 5375
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "aXHADYfDRefYP^I",
+  "tonnage" : 936,
+  "arrivalTime" : {
+    "time" : 25604
+  },
+  "unloadTime" : {
+    "time" : 4680
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "ffVDfWXis`Tu\\NR",
+  "tonnage" : 1082,
+  "arrivalTime" : {
+    "time" : 25611
+  },
+  "unloadTime" : {
+    "time" : 5410
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "XdTWZ\\VWRRyhJVM",
+  "tonnage" : 949,
+  "arrivalTime" : {
+    "time" : 25840
+  },
+  "unloadTime" : {
+    "time" : 4745
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "SRWSbWQQcGO`jOD",
+  "tonnage" : 978,
+  "arrivalTime" : {
+    "time" : 25998
+  },
+  "unloadTime" : {
+    "time" : 4890
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "HTWOYFKdjWNjPFK",
+  "tonnage" : 965,
+  "arrivalTime" : {
+    "time" : 26106
+  },
+  "unloadTime" : {
+    "time" : 4825
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "GkfYnaqkXJJNUkY",
+  "tonnage" : 1074,
+  "arrivalTime" : {
+    "time" : 26472
+  },
+  "unloadTime" : {
+    "time" : 5370
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "jPTZ^VbUDVSZdED",
+  "tonnage" : 985,
+  "arrivalTime" : {
+    "time" : 26490
+  },
+  "unloadTime" : {
+    "time" : 4925
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "WhYpeEBRQ]YRtBR",
+  "tonnage" : 1104,
+  "arrivalTime" : {
+    "time" : 26491
+  },
+  "unloadTime" : {
+    "time" : 5520
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "VbReVlFTRblG^nX",
+  "tonnage" : 1191,
+  "arrivalTime" : {
+    "time" : 26575
+  },
+  "unloadTime" : {
+    "time" : 5955
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "[hgbMSbVINgT]TV",
+  "tonnage" : 1041,
+  "arrivalTime" : {
+    "time" : 26666
+  },
+  "unloadTime" : {
+    "time" : 5205
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "ZpASfNYYIIUSSV]",
+  "tonnage" : 1004,
+  "arrivalTime" : {
+    "time" : 26850
+  },
+  "unloadTime" : {
+    "time" : 5020
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "ZQ^h_ceiZ[^`CaF",
+  "tonnage" : 1009,
+  "arrivalTime" : {
+    "time" : 27100
+  },
+  "unloadTime" : {
+    "time" : 5045
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "geJDbnLRZKViRiB",
+  "tonnage" : 902,
+  "arrivalTime" : {
+    "time" : 27273
+  },
+  "unloadTime" : {
+    "time" : 4510
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "CGTQaMhiNJIZZdB",
+  "tonnage" : 928,
+  "arrivalTime" : {
+    "time" : 27381
+  },
+  "unloadTime" : {
+    "time" : 4640
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "FKZuWYkcOFa[FAN",
+  "tonnage" : 949,
+  "arrivalTime" : {
+    "time" : 27429
+  },
+  "unloadTime" : {
+    "time" : 4745
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "CNjCrVpXbOgRhYr",
+  "tonnage" : 1024,
+  "arrivalTime" : {
+    "time" : 27471
+  },
+  "unloadTime" : {
+    "time" : 5120
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "gLfKUaTXRG[GXgV",
+  "tonnage" : 989,
+  "arrivalTime" : {
+    "time" : 27543
+  },
+  "unloadTime" : {
+    "time" : 4945
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "SPQcL^NfeCGLC\\T",
+  "tonnage" : 973,
+  "arrivalTime" : {
+    "time" : 27661
+  },
+  "unloadTime" : {
+    "time" : 4865
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "_fOV`aNHknSNo^L",
+  "tonnage" : 1082,
+  "arrivalTime" : {
+    "time" : 27924
+  },
+  "unloadTime" : {
+    "time" : 5410
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "kPKfAqcAmNhlRDV",
+  "tonnage" : 1010,
+  "arrivalTime" : {
+    "time" : 28010
+  },
+  "unloadTime" : {
+    "time" : 5050
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "CiSYXU^YaLVYHRW",
+  "tonnage" : 982,
+  "arrivalTime" : {
+    "time" : 28043
+  },
+  "unloadTime" : {
+    "time" : 4910
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "MQWny[P\\gV]QLWb",
+  "tonnage" : 1064,
+  "arrivalTime" : {
+    "time" : 28043
+  },
+  "unloadTime" : {
+    "time" : 5320
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "kdVRTcFYEJXGTpg",
+  "tonnage" : 978,
+  "arrivalTime" : {
+    "time" : 28073
+  },
+  "unloadTime" : {
+    "time" : 4890
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "YofYOVxXFRdDZTU",
+  "tonnage" : 1194,
+  "arrivalTime" : {
+    "time" : 28110
+  },
+  "unloadTime" : {
+    "time" : 5970
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "hEBbj`C_HYgCY_J",
+  "tonnage" : 1041,
+  "arrivalTime" : {
+    "time" : 28135
+  },
+  "unloadTime" : {
+    "time" : 5205
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "^\\XVYXWdkSVFLa`",
+  "tonnage" : 962,
+  "arrivalTime" : {
+    "time" : 28763
+  },
+  "unloadTime" : {
+    "time" : 4810
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "CnJUSQQPdWR^TSF",
+  "tonnage" : 1165,
+  "arrivalTime" : {
+    "time" : 28832
+  },
+  "unloadTime" : {
+    "time" : 5825
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "\\Qk\\KMjZsDVSUOA",
+  "tonnage" : 1132,
+  "arrivalTime" : {
+    "time" : 29022
+  },
+  "unloadTime" : {
+    "time" : 5660
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "jeZRNnCLYUPSTRV",
+  "tonnage" : 1182,
+  "arrivalTime" : {
+    "time" : 29029
+  },
+  "unloadTime" : {
+    "time" : 5910
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "USHfqbMQjiTfYaG",
+  "tonnage" : 1012,
+  "arrivalTime" : {
+    "time" : 29080
+  },
+  "unloadTime" : {
+    "time" : 5060
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "QTBSSGWJoGlRFrE",
+  "tonnage" : 991,
+  "arrivalTime" : {
+    "time" : 29109
+  },
+  "unloadTime" : {
+    "time" : 4955
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "YWULOKUBFmMfE^R",
+  "tonnage" : 1161,
+  "arrivalTime" : {
+    "time" : 29299
+  },
+  "unloadTime" : {
+    "time" : 5805
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "QDBjQwQ]fLocRXY",
+  "tonnage" : 900,
+  "arrivalTime" : {
+    "time" : 29382
+  },
+  "unloadTime" : {
+    "time" : 4500
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "TW]`AQOukbOAtLK",
+  "tonnage" : 1141,
+  "arrivalTime" : {
+    "time" : 29594
+  },
+  "unloadTime" : {
+    "time" : 5705
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "PDSKpiCJTsKTJAi",
+  "tonnage" : 1059,
+  "arrivalTime" : {
+    "time" : 29899
+  },
+  "unloadTime" : {
+    "time" : 5295
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "QFuZ`Z]UPo[iIeh",
+  "tonnage" : 1049,
+  "arrivalTime" : {
+    "time" : 29935
+  },
+  "unloadTime" : {
+    "time" : 5245
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "YAGiNgTPUAcWWiW",
+  "tonnage" : 1017,
+  "arrivalTime" : {
+    "time" : 30107
+  },
+  "unloadTime" : {
+    "time" : 5085
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "TL\\P_amhNPASQPV",
+  "tonnage" : 1065,
+  "arrivalTime" : {
+    "time" : 30112
+  },
+  "unloadTime" : {
+    "time" : 5325
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "FXLZXCAvQSjf_Dh",
+  "tonnage" : 1111,
+  "arrivalTime" : {
+    "time" : 30210
+  },
+  "unloadTime" : {
+    "time" : 5555
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "daLcMPqUV\\]GNZB",
+  "tonnage" : 983,
+  "arrivalTime" : {
+    "time" : 30239
+  },
+  "unloadTime" : {
+    "time" : 4915
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "GInHjRJXKafdT]g",
+  "tonnage" : 983,
+  "arrivalTime" : {
+    "time" : 30244
+  },
+  "unloadTime" : {
+    "time" : 4915
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "fX\\eoaKSLBHZWmm",
+  "tonnage" : 1148,
+  "arrivalTime" : {
+    "time" : 30409
+  },
+  "unloadTime" : {
+    "time" : 5740
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "cZCHSU[T^oIIPgA",
+  "tonnage" : 1194,
+  "arrivalTime" : {
+    "time" : 30450
+  },
+  "unloadTime" : {
+    "time" : 5970
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "OGNWYEcaAROOFZq",
+  "tonnage" : 1001,
+  "arrivalTime" : {
+    "time" : 30711
+  },
+  "unloadTime" : {
+    "time" : 5005
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "icM]mTdZTLAXPWD",
+  "tonnage" : 1018,
+  "arrivalTime" : {
+    "time" : 30873
+  },
+  "unloadTime" : {
+    "time" : 5090
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "gDCLxaukRHHGiVP",
+  "tonnage" : 1013,
+  "arrivalTime" : {
+    "time" : 30915
+  },
+  "unloadTime" : {
+    "time" : 5065
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "tXlIPgK[`NDaGJL",
+  "tonnage" : 909,
+  "arrivalTime" : {
+    "time" : 30990
+  },
+  "unloadTime" : {
+    "time" : 4545
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "SCXxR]hQTXeaVoI",
+  "tonnage" : 1165,
+  "arrivalTime" : {
+    "time" : 31247
+  },
+  "unloadTime" : {
+    "time" : 5825
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "\\TeYZQOKGNbJNbL",
+  "tonnage" : 995,
+  "arrivalTime" : {
+    "time" : 31254
+  },
+  "unloadTime" : {
+    "time" : 4975
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "^UHZWYIMW`RKI_Q",
+  "tonnage" : 1139,
+  "arrivalTime" : {
+    "time" : 31323
+  },
+  "unloadTime" : {
+    "time" : 5695
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "PSWiPWYMMXESN\\L",
+  "tonnage" : 927,
+  "arrivalTime" : {
+    "time" : 31338
+  },
+  "unloadTime" : {
+    "time" : 4635
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "ZaMYrXBPOVpYmnc",
+  "tonnage" : 1049,
+  "arrivalTime" : {
+    "time" : 31358
+  },
+  "unloadTime" : {
+    "time" : 5245
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "PhqbBETOSMWoCwJ",
+  "tonnage" : 1095,
+  "arrivalTime" : {
+    "time" : 31494
+  },
+  "unloadTime" : {
+    "time" : 5475
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "lIiSlERVYndoTPL",
+  "tonnage" : 1178,
+  "arrivalTime" : {
+    "time" : 31699
+  },
+  "unloadTime" : {
+    "time" : 5890
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "cOHyVO]ZYZWH_sQ",
+  "tonnage" : 1123,
+  "arrivalTime" : {
+    "time" : 31746
+  },
+  "unloadTime" : {
+    "time" : 5615
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "NL^XFsBJmp[`DWi",
+  "tonnage" : 1082,
+  "arrivalTime" : {
+    "time" : 31830
+  },
+  "unloadTime" : {
+    "time" : 5410
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "EDXe]jmZIWigMAZ",
+  "tonnage" : 1104,
+  "arrivalTime" : {
+    "time" : 31832
+  },
+  "unloadTime" : {
+    "time" : 5520
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "_r\\hZHdg`]s]TfT",
+  "tonnage" : 1141,
+  "arrivalTime" : {
+    "time" : 31890
+  },
+  "unloadTime" : {
+    "time" : 5705
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "PYMlVBjv^XSOudZ",
+  "tonnage" : 964,
+  "arrivalTime" : {
+    "time" : 32054
+  },
+  "unloadTime" : {
+    "time" : 4820
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "YQFmJ^E]JDlkwbQ",
+  "tonnage" : 1109,
+  "arrivalTime" : {
+    "time" : 32170
+  },
+  "unloadTime" : {
+    "time" : 5545
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "dVjXgWdKOSRNfTN",
+  "tonnage" : 1183,
+  "arrivalTime" : {
+    "time" : 32171
+  },
+  "unloadTime" : {
+    "time" : 5915
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "X_EINIQHLZTGfHv",
+  "tonnage" : 979,
+  "arrivalTime" : {
+    "time" : 32182
+  },
+  "unloadTime" : {
+    "time" : 4895
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "`iTJShYJdAZPQFW",
+  "tonnage" : 1067,
+  "arrivalTime" : {
+    "time" : 32187
+  },
+  "unloadTime" : {
+    "time" : 5335
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "Q`f]aAkSJEVSNQL",
+  "tonnage" : 964,
+  "arrivalTime" : {
+    "time" : 32193
+  },
+  "unloadTime" : {
+    "time" : 4820
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "_laAbaQTP_YTJQQ",
+  "tonnage" : 1015,
+  "arrivalTime" : {
+    "time" : 32217
+  },
+  "unloadTime" : {
+    "time" : 5075
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "PEMOUJf`qUpevi`",
+  "tonnage" : 1120,
+  "arrivalTime" : {
+    "time" : 32398
+  },
+  "unloadTime" : {
+    "time" : 5600
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "[OWaZO`wKSQR]Og",
+  "tonnage" : 1116,
+  "arrivalTime" : {
+    "time" : 32449
+  },
+  "unloadTime" : {
+    "time" : 5580
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "FfZKU]JLdWLLFTJ",
+  "tonnage" : 1098,
+  "arrivalTime" : {
+    "time" : 32474
+  },
+  "unloadTime" : {
+    "time" : 5490
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "fkFWbPXUXRcPFZW",
+  "tonnage" : 912,
+  "arrivalTime" : {
+    "time" : 32524
+  },
+  "unloadTime" : {
+    "time" : 4560
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "GYENP]VeQXERtYA",
+  "tonnage" : 1146,
+  "arrivalTime" : {
+    "time" : 32820
+  },
+  "unloadTime" : {
+    "time" : 5730
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "hbU[\\pVWVI]eSXK",
+  "tonnage" : 902,
+  "arrivalTime" : {
+    "time" : 32857
+  },
+  "unloadTime" : {
+    "time" : 4510
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "KRVHhBGYNIAFXPT",
+  "tonnage" : 903,
+  "arrivalTime" : {
+    "time" : 32879
+  },
+  "unloadTime" : {
+    "time" : 4515
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "ZPhkKODNKXMReX]",
+  "tonnage" : 928,
+  "arrivalTime" : {
+    "time" : 33254
+  },
+  "unloadTime" : {
+    "time" : 4640
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "NZFRgLE[WiSWsnP",
+  "tonnage" : 1009,
+  "arrivalTime" : {
+    "time" : 33445
+  },
+  "unloadTime" : {
+    "time" : 5045
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "gC`bNUd[UbQLHGq",
+  "tonnage" : 925,
+  "arrivalTime" : {
+    "time" : 33636
+  },
+  "unloadTime" : {
+    "time" : 4625
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "Qa[\\YWIjMaZNG`R",
+  "tonnage" : 924,
+  "arrivalTime" : {
+    "time" : 34002
+  },
+  "unloadTime" : {
+    "time" : 4620
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "ASdCFZa_rCBUQYD",
+  "tonnage" : 912,
+  "arrivalTime" : {
+    "time" : 34048
+  },
+  "unloadTime" : {
+    "time" : 4560
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "UTXYTXL^FxkqmMK",
+  "tonnage" : 1102,
+  "arrivalTime" : {
+    "time" : 34099
+  },
+  "unloadTime" : {
+    "time" : 5510
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "sRLiE^]P^MZOMX\\",
+  "tonnage" : 1167,
+  "arrivalTime" : {
+    "time" : 34341
+  },
+  "unloadTime" : {
+    "time" : 5835
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "\\DXUQXKVEJawDpM",
+  "tonnage" : 1061,
+  "arrivalTime" : {
+    "time" : 34646
+  },
+  "unloadTime" : {
+    "time" : 5305
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "B`R`ShVELYHSYeH",
+  "tonnage" : 1078,
+  "arrivalTime" : {
+    "time" : 34838
+  },
+  "unloadTime" : {
+    "time" : 5390
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "RcLgQULQJLda^IZ",
+  "tonnage" : 1004,
+  "arrivalTime" : {
+    "time" : 34897
+  },
+  "unloadTime" : {
+    "time" : 5020
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "Sra`P]IqKTKXLZT",
+  "tonnage" : 1092,
+  "arrivalTime" : {
+    "time" : 34987
+  },
+  "unloadTime" : {
+    "time" : 5460
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "ZDdXMDQLIXkIYMR",
+  "tonnage" : 1038,
+  "arrivalTime" : {
+    "time" : 35072
+  },
+  "unloadTime" : {
+    "time" : 5190
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "pdefZXa]KJHRM^J",
+  "tonnage" : 998,
+  "arrivalTime" : {
+    "time" : 35280
+  },
+  "unloadTime" : {
+    "time" : 4990
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "UQVVSYEaYZfASRZ",
+  "tonnage" : 1191,
+  "arrivalTime" : {
+    "time" : 35455
+  },
+  "unloadTime" : {
+    "time" : 5955
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "\\BhK_BbH`SWVJXS",
+  "tonnage" : 1108,
+  "arrivalTime" : {
+    "time" : 35586
+  },
+  "unloadTime" : {
+    "time" : 5540
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "DZb`K]cMIWYXXXg",
+  "tonnage" : 977,
+  "arrivalTime" : {
+    "time" : 35673
+  },
+  "unloadTime" : {
+    "time" : 4885
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "`TP]CI_Z]UoS`eB",
+  "tonnage" : 1126,
+  "arrivalTime" : {
+    "time" : 35770
+  },
+  "unloadTime" : {
+    "time" : 5630
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "CIYapSNZQAiVlYN",
+  "tonnage" : 1103,
+  "arrivalTime" : {
+    "time" : 35886
+  },
+  "unloadTime" : {
+    "time" : 5515
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "[DfZX_YJ_YaEVWX",
+  "tonnage" : 1089,
+  "arrivalTime" : {
+    "time" : 35967
+  },
+  "unloadTime" : {
+    "time" : 5445
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "YVLmYC_YlWERsTH",
+  "tonnage" : 900,
+  "arrivalTime" : {
+    "time" : 36078
+  },
+  "unloadTime" : {
+    "time" : 4500
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "DX^zTKQNPWG`uQb",
+  "tonnage" : 913,
+  "arrivalTime" : {
+    "time" : 36122
+  },
+  "unloadTime" : {
+    "time" : 4565
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "kn_aCZKpgPV^_SO",
+  "tonnage" : 1183,
+  "arrivalTime" : {
+    "time" : 36136
+  },
+  "unloadTime" : {
+    "time" : 5915
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "gSkglYCNTM_fQhc",
+  "tonnage" : 994,
+  "arrivalTime" : {
+    "time" : 36592
+  },
+  "unloadTime" : {
+    "time" : 4970
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "MvQCX\\dDMBGeBVT",
+  "tonnage" : 953,
+  "arrivalTime" : {
+    "time" : 36624
+  },
+  "unloadTime" : {
+    "time" : 4765
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "A_KqTC]O[CNYGRk",
+  "tonnage" : 1069,
+  "arrivalTime" : {
+    "time" : 36742
+  },
+  "unloadTime" : {
+    "time" : 5345
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "bTPbAO]`JGQWViZ",
+  "tonnage" : 1158,
+  "arrivalTime" : {
+    "time" : 36799
+  },
+  "unloadTime" : {
+    "time" : 5790
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "mcQilHeKQBKbmZZ",
+  "tonnage" : 1136,
+  "arrivalTime" : {
+    "time" : 36906
+  },
+  "unloadTime" : {
+    "time" : 5680
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "TWhCEFnTMNDKZgI",
+  "tonnage" : 1127,
+  "arrivalTime" : {
+    "time" : 36933
+  },
+  "unloadTime" : {
+    "time" : 5635
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "jPOyQbrOx]TIOX[",
+  "tonnage" : 977,
+  "arrivalTime" : {
+    "time" : 37017
+  },
+  "unloadTime" : {
+    "time" : 4885
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "\\]WWMI\\`FPCKSIS",
+  "tonnage" : 1108,
+  "arrivalTime" : {
+    "time" : 37036
+  },
+  "unloadTime" : {
+    "time" : 5540
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "[o]DiHKWSgkLBTK",
+  "tonnage" : 987,
+  "arrivalTime" : {
+    "time" : 37041
+  },
+  "unloadTime" : {
+    "time" : 4935
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "ZfSPYDU]CA]nOb]",
+  "tonnage" : 963,
+  "arrivalTime" : {
+    "time" : 37117
+  },
+  "unloadTime" : {
+    "time" : 4815
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "B]`GRAIObY_KchD",
+  "tonnage" : 1009,
+  "arrivalTime" : {
+    "time" : 37230
+  },
+  "unloadTime" : {
+    "time" : 5045
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "nFHSKAlVXAmpPSD",
+  "tonnage" : 968,
+  "arrivalTime" : {
+    "time" : 37456
+  },
+  "unloadTime" : {
+    "time" : 4840
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "X^KPQbUWSjO]a[l",
+  "tonnage" : 999,
+  "arrivalTime" : {
+    "time" : 37500
+  },
+  "unloadTime" : {
+    "time" : 4995
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "KMQdCRNPealNHZj",
+  "tonnage" : 1086,
+  "arrivalTime" : {
+    "time" : 37731
+  },
+  "unloadTime" : {
+    "time" : 5430
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "JVj_Z\\TgPgZ`RQA",
+  "tonnage" : 1198,
+  "arrivalTime" : {
+    "time" : 37744
+  },
+  "unloadTime" : {
+    "time" : 5990
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "_HYkqXY\\HMXOj[c",
+  "tonnage" : 1014,
+  "arrivalTime" : {
+    "time" : 37748
+  },
+  "unloadTime" : {
+    "time" : 5070
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "UCUKTWc\\SPUZtCX",
+  "tonnage" : 959,
+  "arrivalTime" : {
+    "time" : 37811
+  },
+  "unloadTime" : {
+    "time" : 4795
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "UYh^vFWsDYYZOfY",
+  "tonnage" : 1141,
+  "arrivalTime" : {
+    "time" : 37836
+  },
+  "unloadTime" : {
+    "time" : 5705
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "grB^YGbnFFSUQGW",
+  "tonnage" : 999,
+  "arrivalTime" : {
+    "time" : 37861
+  },
+  "unloadTime" : {
+    "time" : 4995
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "jUHYZWMmaYkNUjR",
+  "tonnage" : 1004,
+  "arrivalTime" : {
+    "time" : 37928
+  },
+  "unloadTime" : {
+    "time" : 5020
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "WEzjbZVEWI[GFMB",
+  "tonnage" : 994,
+  "arrivalTime" : {
+    "time" : 38078
+  },
+  "unloadTime" : {
+    "time" : 4970
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "IbMaLJNETNVqWLT",
+  "tonnage" : 1150,
+  "arrivalTime" : {
+    "time" : 38138
+  },
+  "unloadTime" : {
+    "time" : 5750
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "eU[EZ^ULNHITIo[",
+  "tonnage" : 1179,
+  "arrivalTime" : {
+    "time" : 38414
+  },
+  "unloadTime" : {
+    "time" : 5895
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "WZMZnos\\AEgnOKK",
+  "tonnage" : 1198,
+  "arrivalTime" : {
+    "time" : 38463
+  },
+  "unloadTime" : {
+    "time" : 5990
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "aKgiWlmdTK\\QeT[",
+  "tonnage" : 1010,
+  "arrivalTime" : {
+    "time" : 38860
+  },
+  "unloadTime" : {
+    "time" : 5050
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "j^CABAi`KbbDAMo",
+  "tonnage" : 935,
+  "arrivalTime" : {
+    "time" : 38918
+  },
+  "unloadTime" : {
+    "time" : 4675
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "\\adrKBS_ZDRggYo",
+  "tonnage" : 1159,
+  "arrivalTime" : {
+    "time" : 38992
+  },
+  "unloadTime" : {
+    "time" : 5795
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "MRZrQVYYUAQEMQV",
+  "tonnage" : 1064,
+  "arrivalTime" : {
+    "time" : 39136
+  },
+  "unloadTime" : {
+    "time" : 5320
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "RlPgQ]FZkVXcFpV",
+  "tonnage" : 1054,
+  "arrivalTime" : {
+    "time" : 39348
+  },
+  "unloadTime" : {
+    "time" : 5270
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "YkMJYV\\LPUIr[[H",
+  "tonnage" : 1180,
+  "arrivalTime" : {
+    "time" : 39528
+  },
+  "unloadTime" : {
+    "time" : 5900
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "FFdLRfDjN^EYISe",
+  "tonnage" : 968,
+  "arrivalTime" : {
+    "time" : 39553
+  },
+  "unloadTime" : {
+    "time" : 4840
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "``K_EZWfFIrLYcb",
+  "tonnage" : 992,
+  "arrivalTime" : {
+    "time" : 39661
+  },
+  "unloadTime" : {
+    "time" : 4960
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "HKasOLDZEQYkFVU",
+  "tonnage" : 913,
+  "arrivalTime" : {
+    "time" : 39919
+  },
+  "unloadTime" : {
+    "time" : 4565
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "EXICZeWVZXSfkbs",
+  "tonnage" : 1192,
+  "arrivalTime" : {
+    "time" : 40206
+  },
+  "unloadTime" : {
+    "time" : 5960
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "dgBcJTLCKFRai\\u",
+  "tonnage" : 984,
+  "arrivalTime" : {
+    "time" : 40222
+  },
+  "unloadTime" : {
+    "time" : 4920
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "QXZbRhRXdi_bJcv",
+  "tonnage" : 1073,
+  "arrivalTime" : {
+    "time" : 40497
+  },
+  "unloadTime" : {
+    "time" : 5365
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "NXHRIOO`A_mJWU]",
+  "tonnage" : 1158,
+  "arrivalTime" : {
+    "time" : 40657
+  },
+  "unloadTime" : {
+    "time" : 5790
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "kfDLnGEHTfq^BXZ",
+  "tonnage" : 1086,
+  "arrivalTime" : {
+    "time" : 40707
+  },
+  "unloadTime" : {
+    "time" : 5430
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "RF^aHJYaKmYCLWD",
+  "tonnage" : 1009,
+  "arrivalTime" : {
+    "time" : 40846
+  },
+  "unloadTime" : {
+    "time" : 5045
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "K^IB`_wTT\\^nZO]",
+  "tonnage" : 1007,
+  "arrivalTime" : {
+    "time" : 40952
+  },
+  "unloadTime" : {
+    "time" : 5035
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "^fhTdqkEetKZdgA",
+  "tonnage" : 1052,
+  "arrivalTime" : {
+    "time" : 40983
+  },
+  "unloadTime" : {
+    "time" : 5260
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "`aQDIRR\\aEU]dWQ",
+  "tonnage" : 948,
+  "arrivalTime" : {
+    "time" : 41041
+  },
+  "unloadTime" : {
+    "time" : 4740
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "BoddWJHBcUUMCKA",
+  "tonnage" : 1152,
+  "arrivalTime" : {
+    "time" : 41111
+  },
+  "unloadTime" : {
+    "time" : 5760
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "vEUIjj]fXFd^TNY",
+  "tonnage" : 1176,
+  "arrivalTime" : {
+    "time" : 41270
+  },
+  "unloadTime" : {
+    "time" : 5880
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "Rf]VdY]NFEcBqfF",
+  "tonnage" : 980,
+  "arrivalTime" : {
+    "time" : 41311
+  },
+  "unloadTime" : {
+    "time" : 4900
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "ImCIGKNGMiOgW^A",
+  "tonnage" : 1016,
+  "arrivalTime" : {
+    "time" : 41326
+  },
+  "unloadTime" : {
+    "time" : 5080
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "Pqkddeff_E]hrap",
+  "tonnage" : 1186,
+  "arrivalTime" : {
+    "time" : 41459
+  },
+  "unloadTime" : {
+    "time" : 5930
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "hTZFBS`RN_CHqRZ",
+  "tonnage" : 1186,
+  "arrivalTime" : {
+    "time" : 41638
+  },
+  "unloadTime" : {
+    "time" : 5930
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "OJWNFqkOQP^g_hE",
+  "tonnage" : 998,
+  "arrivalTime" : {
+    "time" : 41845
+  },
+  "unloadTime" : {
+    "time" : 4990
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "TWQQtMaQWQRLDZZ",
+  "tonnage" : 956,
+  "arrivalTime" : {
+    "time" : 41966
+  },
+  "unloadTime" : {
+    "time" : 4780
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "FB[bprSABZLTWKC",
+  "tonnage" : 1035,
+  "arrivalTime" : {
+    "time" : 42042
+  },
+  "unloadTime" : {
+    "time" : 5175
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "TmSX`iMo]BG[\\XA",
+  "tonnage" : 1090,
+  "arrivalTime" : {
+    "time" : 42047
+  },
+  "unloadTime" : {
+    "time" : 5450
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "dIOScCJTgiKeIkZ",
+  "tonnage" : 995,
+  "arrivalTime" : {
+    "time" : 42230
+  },
+  "unloadTime" : {
+    "time" : 4975
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "rhWA`^TFHJjcGzj",
+  "tonnage" : 1086,
+  "arrivalTime" : {
+    "time" : 42249
+  },
+  "unloadTime" : {
+    "time" : 5430
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "Hj_dVYSwVPTKFXS",
+  "tonnage" : 1138,
+  "arrivalTime" : {
+    "time" : 42284
+  },
+  "unloadTime" : {
+    "time" : 5690
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "[AI_PXbnrMYYSJZ",
+  "tonnage" : 1181,
+  "arrivalTime" : {
+    "time" : 42537
+  },
+  "unloadTime" : {
+    "time" : 5905
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "BP\\MVOtlNXYUOaJ",
+  "tonnage" : 1114,
+  "arrivalTime" : {
+    "time" : 42626
+  },
+  "unloadTime" : {
+    "time" : 5570
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "Spx`Y`IIEeWPMHL",
+  "tonnage" : 1161,
+  "arrivalTime" : {
+    "time" : 42683
+  },
+  "unloadTime" : {
+    "time" : 5805
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "WWeUZxlpYbI\\NPM",
+  "tonnage" : 959,
+  "arrivalTime" : {
+    "time" : 43094
+  },
+  "unloadTime" : {
+    "time" : 4795
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "RSPeHYpVbZD[wUC",
+  "tonnage" : 1006,
+  "arrivalTime" : {
+    "time" : 43148
+  },
+  "unloadTime" : {
+    "time" : 5030
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "UhP]UOEUlSMc_Gf",
+  "tonnage" : 1151,
+  "arrivalTime" : {
+    "time" : 43209
+  },
+  "unloadTime" : {
+    "time" : 5755
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "XBAegKW\\cTS\\WUm",
+  "tonnage" : 1023,
+  "arrivalTime" : {
+    "time" : 43270
+  },
+  "unloadTime" : {
+    "time" : 5115
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "jvHUWLXLmXYMXVF",
+  "tonnage" : 959,
+  "arrivalTime" : {
+    "time" : 43278
+  },
+  "unloadTime" : {
+    "time" : 4795
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "mjHCKLDFdEOTVUN",
+  "tonnage" : 934,
+  "arrivalTime" : {
+    "time" : 43379
+  },
+  "unloadTime" : {
+    "time" : 4670
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "XcTUYMSUkGuWZDM",
+  "tonnage" : 920,
+  "arrivalTime" : {
+    "time" : 43596
+  },
+  "unloadTime" : {
+    "time" : 4600
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "OTsuIDOxma_dfmQ",
+  "tonnage" : 905,
+  "arrivalTime" : {
+    "time" : 43902
+  },
+  "unloadTime" : {
+    "time" : 4525
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "EffAPjSkX[mi`YZ",
+  "tonnage" : 974,
+  "arrivalTime" : {
+    "time" : 43934
+  },
+  "unloadTime" : {
+    "time" : 4870
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "TGgSYXGULcUCHXQ",
+  "tonnage" : 1079,
+  "arrivalTime" : {
+    "time" : 43989
+  },
+  "unloadTime" : {
+    "time" : 5395
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "Bykhj_yRJZO`J_X",
+  "tonnage" : 1031,
+  "arrivalTime" : {
+    "time" : 44131
+  },
+  "unloadTime" : {
+    "time" : 5155
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "IP[G_R_UWRVccBS",
+  "tonnage" : 1179,
+  "arrivalTime" : {
+    "time" : 44191
+  },
+  "unloadTime" : {
+    "time" : 5895
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "[eEoNAQdZ[FdUVb",
+  "tonnage" : 1013,
+  "arrivalTime" : {
+    "time" : 44231
+  },
+  "unloadTime" : {
+    "time" : 5065
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "OYRKpL`MKvAXCnp",
+  "tonnage" : 1067,
+  "arrivalTime" : {
+    "time" : 44367
+  },
+  "unloadTime" : {
+    "time" : 5335
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "^UTEWUHXj]nX_HR",
+  "tonnage" : 1036,
+  "arrivalTime" : {
+    "time" : 44410
+  },
+  "unloadTime" : {
+    "time" : 5180
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "CJQUsQOUJZAYOgU",
+  "tonnage" : 1137,
+  "arrivalTime" : {
+    "time" : 44425
+  },
+  "unloadTime" : {
+    "time" : 5685
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "jWs_NPAg^UhBWRl",
+  "tonnage" : 1105,
+  "arrivalTime" : {
+    "time" : 44541
+  },
+  "unloadTime" : {
+    "time" : 5525
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "VEvS_\\POnJIW\\Te",
+  "tonnage" : 1118,
+  "arrivalTime" : {
+    "time" : 44596
+  },
+  "unloadTime" : {
+    "time" : 5590
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "RJMLtZfQRTXXO`\\",
+  "tonnage" : 989,
+  "arrivalTime" : {
+    "time" : 44627
+  },
+  "unloadTime" : {
+    "time" : 4945
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "kARKTnbPURVJqjL",
+  "tonnage" : 996,
+  "arrivalTime" : {
+    "time" : 44727
+  },
+  "unloadTime" : {
+    "time" : 4980
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "_VQIuISEZVV\\ppI",
+  "tonnage" : 1191,
+  "arrivalTime" : {
+    "time" : 44898
+  },
+  "unloadTime" : {
+    "time" : 5955
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "HaOLffIsQTWUURQ",
+  "tonnage" : 1020,
+  "arrivalTime" : {
+    "time" : 45062
+  },
+  "unloadTime" : {
+    "time" : 5100
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "ZOAdSMPZGESYcAZ",
+  "tonnage" : 977,
+  "arrivalTime" : {
+    "time" : 45125
+  },
+  "unloadTime" : {
+    "time" : 4885
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "iO`VUTrj`ZBvZ[T",
+  "tonnage" : 918,
+  "arrivalTime" : {
+    "time" : 45310
+  },
+  "unloadTime" : {
+    "time" : 4590
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "dBHAQIAPXfQbCkQ",
+  "tonnage" : 1190,
+  "arrivalTime" : {
+    "time" : 45358
+  },
+  "unloadTime" : {
+    "time" : 5950
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "_PDYZgKHYXIQrDk",
+  "tonnage" : 1119,
+  "arrivalTime" : {
+    "time" : 45449
+  },
+  "unloadTime" : {
+    "time" : 5595
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "Pr\\h^VbDSPhI]NK",
+  "tonnage" : 1184,
+  "arrivalTime" : {
+    "time" : 45461
+  },
+  "unloadTime" : {
+    "time" : 5920
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "Ui`UWfgIlP]Bmvc",
+  "tonnage" : 970,
+  "arrivalTime" : {
+    "time" : 45769
+  },
+  "unloadTime" : {
+    "time" : 4850
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "cHewalJSCOl[kiO",
+  "tonnage" : 924,
+  "arrivalTime" : {
+    "time" : 45777
+  },
+  "unloadTime" : {
+    "time" : 4620
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "TS`OVVeEaKNGRWG",
+  "tonnage" : 1184,
+  "arrivalTime" : {
+    "time" : 46107
+  },
+  "unloadTime" : {
+    "time" : 5920
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "bOTcZhbARX[Rgeb",
+  "tonnage" : 926,
+  "arrivalTime" : {
+    "time" : 46148
+  },
+  "unloadTime" : {
+    "time" : 4630
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "RtVUqNj]VFqVERV",
+  "tonnage" : 1035,
+  "arrivalTime" : {
+    "time" : 46298
+  },
+  "unloadTime" : {
+    "time" : 5175
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "[APSE]AN_jUAhLV",
+  "tonnage" : 1057,
+  "arrivalTime" : {
+    "time" : 46880
+  },
+  "unloadTime" : {
+    "time" : 5285
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "hNIVIbHZ_FCVQKg",
+  "tonnage" : 1046,
+  "arrivalTime" : {
+    "time" : 46883
+  },
+  "unloadTime" : {
+    "time" : 5230
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "\\KoRrgHFUaT`RwZ",
+  "tonnage" : 919,
+  "arrivalTime" : {
+    "time" : 47612
+  },
+  "unloadTime" : {
+    "time" : 4595
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "ZCRNKkkNmTrmoWF",
+  "tonnage" : 976,
+  "arrivalTime" : {
+    "time" : 47780
+  },
+  "unloadTime" : {
+    "time" : 4880
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "UWgQ\\kmlYUlqpgT",
+  "tonnage" : 915,
+  "arrivalTime" : {
+    "time" : 47835
+  },
+  "unloadTime" : {
+    "time" : 4575
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "haMCmZRnnDYEZJ[",
+  "tonnage" : 1092,
+  "arrivalTime" : {
+    "time" : 47868
+  },
+  "unloadTime" : {
+    "time" : 5460
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "RsbbMKUWYXNYKGJ",
+  "tonnage" : 1061,
+  "arrivalTime" : {
+    "time" : 47885
+  },
+  "unloadTime" : {
+    "time" : 5305
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "BO`aVPZUiaUgmFT",
+  "tonnage" : 1149,
+  "arrivalTime" : {
+    "time" : 48203
+  },
+  "unloadTime" : {
+    "time" : 5745
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "RSRnYZeT^eRVnVQ",
+  "tonnage" : 996,
+  "arrivalTime" : {
+    "time" : 48204
+  },
+  "unloadTime" : {
+    "time" : 4980
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "hTW[]\\PWmdNPQEK",
+  "tonnage" : 945,
+  "arrivalTime" : {
+    "time" : 48355
+  },
+  "unloadTime" : {
+    "time" : 4725
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "BoYIXhX_jlCUkRL",
+  "tonnage" : 906,
+  "arrivalTime" : {
+    "time" : 48406
+  },
+  "unloadTime" : {
+    "time" : 4530
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "dqtnuUAFxHQFOfU",
+  "tonnage" : 917,
+  "arrivalTime" : {
+    "time" : 48782
+  },
+  "unloadTime" : {
+    "time" : 4585
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "VK[AWLCKgXfMJBR",
+  "tonnage" : 1191,
+  "arrivalTime" : {
+    "time" : 48810
+  },
+  "unloadTime" : {
+    "time" : 5955
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "AcAX\\XJWa]UbHS]",
+  "tonnage" : 1024,
+  "arrivalTime" : {
+    "time" : 48818
+  },
+  "unloadTime" : {
+    "time" : 5120
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "RWOm_lsAOgCZBkP",
+  "tonnage" : 1193,
+  "arrivalTime" : {
+    "time" : 48885
+  },
+  "unloadTime" : {
+    "time" : 5965
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "WMoVOJGJyfYgZmY",
+  "tonnage" : 1045,
+  "arrivalTime" : {
+    "time" : 48963
+  },
+  "unloadTime" : {
+    "time" : 5225
+  },
+  "typeCargo" : "CONTAINER"
+}, {
+  "shipName" : "GWq]M`FWRGlTV[M",
+  "tonnage" : 908,
+  "arrivalTime" : {
+    "time" : 49603
+  },
+  "unloadTime" : {
+    "time" : 4540
+  },
+  "typeCargo" : "BULK"
+}, {
+  "shipName" : "H]MSlXHYLtrG\\U^",
+  "tonnage" : 1035,
+  "arrivalTime" : {
+    "time" : 50439
+  },
+  "unloadTime" : {
+    "time" : 5175
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "NMX]MgAmMVCPUY]",
+  "tonnage" : 1101,
+  "arrivalTime" : {
+    "time" : 50751
+  },
+  "unloadTime" : {
+    "time" : 5505
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "`C]i\\GSEWeVdXpH",
+  "tonnage" : 1050,
+  "arrivalTime" : {
+    "time" : 51112
+  },
+  "unloadTime" : {
+    "time" : 5250
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "[UUZWifqNH]]^el",
+  "tonnage" : 1038,
+  "arrivalTime" : {
+    "time" : 51858
+  },
+  "unloadTime" : {
+    "time" : 5190
+  },
+  "typeCargo" : "LIQUID"
+}, {
+  "shipName" : "PfUR\\dYLYYQgXAX",
+  "tonnage" : 1094,
+  "arrivalTime" : {
+    "time" : 52801
+  },
+  "unloadTime" : {
+    "time" : 5470
+  },
+  "typeCargo" : "LIQUID"
+} ]

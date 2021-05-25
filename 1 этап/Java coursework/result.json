@@ -1,0 +1,33 @@
+[ {
+  "totalNumberShipsUnloaded" : [ 284 ],
+  "averageLengthUnloadingQueue" : [ 2 ],
+  "averageWaitingTimeInQueue" : [ {
+    "time" : 204
+  } ],
+  "averageDelay" : [ {
+    "time" : 773
+  } ],
+  "maxDelay" : [ {
+    "time" : 1437
+  } ],
+  "totalCost" : [ 456800 ],
+  "unloadedBulkShip" : [ 4 ],
+  "unloadedLiquidShip" : [ 4 ],
+  "unloadedContainerShip" : [ 4 ]
+}, {
+  "totalNumberShipsUnloaded" : [ 287 ],
+  "averageLengthUnloadingQueue" : [ 2 ],
+  "averageWaitingTimeInQueue" : [ {
+    "time" : 155
+  } ],
+  "averageDelay" : [ {
+    "time" : 759
+  } ],
+  "maxDelay" : [ {
+    "time" : 1440
+  } ],
+  "totalCost" : [ 464000 ],
+  "unloadedBulkShip" : [ 4 ],
+  "unloadedLiquidShip" : [ 5 ],
+  "unloadedContainerShip" : [ 4 ]
+} ]
